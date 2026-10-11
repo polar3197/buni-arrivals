@@ -1,0 +1,7 @@
+# Data prep and exploration. (LightGBM gets added when we reach the modeling;
+# on a Mac it also needs `brew install libomp`.)
+pandas
+pyarrow
+numpy
+matplotlib
+jupyterlab

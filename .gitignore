@@ -1,0 +1,10 @@
+# 511's data stays on your machine: its license allows derived work with credit,
+# but the raw files aren't ours to republish (and they're gigabytes).
+data/
+# your 511 API key
+.env
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
